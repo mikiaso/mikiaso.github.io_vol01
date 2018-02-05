@@ -6,6 +6,3 @@ Master student in Seismology
 Graduate School of Science, The University of Tokyo  
 miki.aso@eps.s.u-tokyo.ac.jp  
 +81 03-5841-4652  
-
-a
-b
