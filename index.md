@@ -1,4 +1,4 @@
-# Miki Aso
+# Miki Aso (Miki Ido)
 
 Master student in Seismology  
 
