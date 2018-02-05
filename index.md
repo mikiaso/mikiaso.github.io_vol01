@@ -17,10 +17,10 @@ The Japan Securities Scholarship Fundation (JSFF) Scholorship, 2011-2013  
 ## Publications
 
 ## Outside Talks
-2\. __Ido, M.__, Diffusional tremor migration in western Shikoku, _Seismogenesis Seminar_, _the University of Tokyo_, _Tokyo_, _Japan_, March 2014  
+2\. __Ido, M.__, Diffusional tremor migration in western Shikoku, _Seismogenesis Seminar_, _the University of Tokyo_, _Tokyo_, _Japan_, March 2014 
 1. __Ido, M.__, and N. Suda, Diffusional migration of slow earthquake, _Earthquake Disaster Labolatory_, _Keio University_, _Shonan_, _Japan_, December 2013  
 
 ## Conference Presentations
-3\. __Ido, M.__, The effect of large earthquake and long-term SSEs to tremor activities, _SSJ Fall Meeting_, _Yokohama_, _Japan_, April 2014  
-2. __Ido, M.__, The characteristic earthquake – tremor migration -, _Science Intercollegiate_, _MEXT_, _Makuhari_, _Japan_, March 2014  
-1. __Ido, M.__, and N. Suda, Diffusion coefficients of tremor migration in western Shikoku, _SSJ Fall Meeting_, _Yokohama_, _Japan_, October 2013  
+3\. __Ido, M.__, The effect of large earthquake and long-term SSEs to tremor activities, _SSJ Fall Meeting_, _Yokohama_, _Japan_, April 2014 
+2. __Ido, M.__, The characteristic earthquake – tremor migration -, _Science Intercollegiate_, _MEXT_, _Makuhari_, _Japan_, March 2014 
+1. __Ido, M.__, and N. Suda, Diffusion coefficients of tremor migration in western Shikoku, _SSJ Fall Meeting_, _Yokohama_, _Japan_, October 2013 
