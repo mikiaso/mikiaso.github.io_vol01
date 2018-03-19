@@ -2,8 +2,8 @@
 My name is Miki Aso. I'm a Master student in Seismology of Satoshi Ide's group at the University of Tokyo. My research is about the source of slow earthquake, especially of "low frequency earthquakes(LFEs)" or "tremors". I received my B.S.(2014) from Hiroshima University.
 
 ## Grants
-Graduate Research Abroad in Science Program (GRASP), Graduate School of Science, The University of Tokyo, January 2018 - February 2018  
-The Japan Securities Scholarship Fundation (JSFF) Scholorship, 2011-2013  
+1. Graduate Research Abroad in Science Program (GRASP) for 2 months research in US, _Graduate School of Science_, _The University of Tokyo_, January 2018 - February 2018  
+1. The Japan Securities Scholarship Fundation (JSFF) Scholorship for 3 years undergrad education, _JSFF_, 2011-2013  
 
 ## Outside Talks
 1. __Aso, M.__, N. Aso, and S. Ide, Amplitude evaluation of stacked waveforms of LFEs at Parkfield, _Physics of Earth Interier Seminar_, _Hiroshima University_, _Hiroshima_, _Japan_, March 2018 
